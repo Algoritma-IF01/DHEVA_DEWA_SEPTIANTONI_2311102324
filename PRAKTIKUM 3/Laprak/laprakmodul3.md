@@ -2,7 +2,7 @@
 
 <h2 align="center">PERTEMUAN 3</h2>
 <h2 align="center">PERULANGAN & PERCABANGAN</h2>
-<h3 align="center">Hamid Sabirin-2311102129</h3>
+<h3 align="center">Dheva Dewa Septiantoni - 2311102324</h3>
 
 ### 1. Latihan1
 
