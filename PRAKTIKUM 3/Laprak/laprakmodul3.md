@@ -4,7 +4,7 @@
 <h2 align="center">PERULANGAN & PERCABANGAN</h2>
 <h3 align="center">Dheva Dewa Septiantoni - 2311102324</h3>
 
-### 1. Latihan1
+### 1. Latihan 1
 
 ```go
 package main
@@ -39,7 +39,7 @@ func main() {
 
 ![latihan 1](praktikum3_latihan1.png)
 
-### 2. Latihan2
+### 2. Latihan 2
 
 ```go
 package main
@@ -317,7 +317,7 @@ func main() {
 
 ![tugas 4c](praktikum3_tugas6c.png)
 
-### 8. Tugas5
+### 8. Tugas 7
 
 ```go
 
