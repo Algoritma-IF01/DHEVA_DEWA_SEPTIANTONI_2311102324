@@ -105,7 +105,7 @@ func main() {
 
 ```
 ### OUTPUT SCREENSHOT
-![png](praktikum5_Array.png)
+![png](praktikum5_array.png)
 
 
 
